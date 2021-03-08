@@ -1,0 +1,10 @@
+body {
+    font-family: "helvetica neue";
+    color: #666;
+}
+img {
+  width: 200px;
+}
+.hide {
+  display: none;
+}
